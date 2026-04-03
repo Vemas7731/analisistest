@@ -1,4 +1,4 @@
-# Analisis Data Kualitas Udara Stasiun Beijing ✨
+# Analisis Data Kualitas Udara Stasiun Beijing 
 
 ## Setup Environment - Anaconda
 ```

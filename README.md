@@ -19,8 +19,6 @@ pip install -r requirements.txt
 ## Run steamlit app
 ```
 streamlit run streamlitTA.py
-```
-# 📊 Air Quality Analysis (PM2.5) in Beijing
 
 ```
 
